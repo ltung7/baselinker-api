@@ -1,0 +1,26 @@
+{
+  "name": "baselinker-api",
+  "version": "0.0.1",
+  "description": "Baselinker Integrator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltung7/baselinker-api.git"
+  },
+  "keywords": [
+    "baselinker"
+  ],
+  "author": "Tung Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltung7/baselinker-api.git/issues"
+  },
+  "homepage": "https://github.com/ltung7/baselinker-api.git",
+  "dependencies": {
+    "axios": "^1.6.5"
+  },
+  "type": "module"
+}
